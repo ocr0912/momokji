@@ -1,0 +1,16 @@
+{
+    "category": {
+        "text": "상황별",
+        "name": "situation"
+    },
+    "list": [
+        { "href": "guest", "text": "손님대접" },
+        { "href": "hangover", "text": "해장" },
+        { "href": "snack", "text": "간식/야식" },
+        { "href": "lunch", "text": "도시락" },
+        { "href": "nourshing", "text": "영양식" },
+        { "href": "diet", "text": "식이조절" },
+        { "href": "fast", "text": "초스피드" },
+        { "href": "brunch", "text": "브런치" }
+    ]
+}

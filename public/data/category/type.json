@@ -1,0 +1,16 @@
+{
+    "category": {
+        "text": "분류별",
+        "name": "type"
+    },
+    "list": [
+        { "href": "stew", "text": "찌개/탕" },
+        { "href": "banchan", "text": "밑반찬" },
+        { "href": "spacial", "text": "특식" },
+        { "href": "rice", "text": "덮밥/볶음밥" },
+        { "href": "soup", "text": "국" },
+        { "href": "night", "text": "야식/술안주" },
+        { "href": "noodle", "text": "면" },
+        { "href": "snack", "text": "간식" }
+    ]
+}

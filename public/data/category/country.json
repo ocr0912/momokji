@@ -1,0 +1,16 @@
+{
+    "category": {
+        "text": "나라별",
+        "name": "country"
+    },
+    "list": [
+        { "href": "japan", "text": "일본" },
+        { "href": "korea", "text": "한국" },
+        { "href": "china", "text": "중국" },
+        { "href": "italy", "text": "이탈리아" },
+        { "href": "asia", "text": "동남아" },
+        { "href": "france", "text": "프랑스" },
+        { "href": "usa", "text": "미국" },
+        { "href": "middle", "text": "중동" }
+    ]
+}

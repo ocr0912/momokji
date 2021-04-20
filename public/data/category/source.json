@@ -1,0 +1,16 @@
+{
+    "category": {
+        "text": "식재료별",
+        "name": "source"
+    },
+    "list": [
+        { "href": "potato", "text": "감자/양파" },
+        { "href": "tuna", "text": "참치캔" },
+        { "href": "pork", "text": "돼지고기" },
+        { "href": "ramen", "text": "라면" },
+        { "href": "chicken", "text": "닭고기" },
+        { "href": "rice", "text": "찬 밥" },
+        { "href": "vegetable", "text": "자투리 채소" },
+        { "href": "egg", "text": "달걀" }
+    ]
+}

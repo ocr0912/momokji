@@ -1,0 +1,32 @@
+div {
+    display: grid;
+    grid-template-columns: repeat(2, 300px);
+    grid-template-rows: repeat(2, 300px);
+    grid-gap: 2px;
+    background-color: lightgray;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    border-radius: 0;
+    background: #fff;
+    border: none;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 15px;
+    transition: 0.2s;
+    color: inherit;
+    letter-spacing: 3px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 300px;
+}
+
+a:hover {
+    background-color: lightpink;
+    font-weight: bold;
+    color: white;
+}
